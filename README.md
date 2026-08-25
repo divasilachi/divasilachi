@@ -1,23 +1,23 @@
 
-# ¡Hola, soy Denis Ionut Vasilachi! 👋
+# Hola, soy Denis
 
-## 🚀 Sobre mí
-- ⚙️ **Perfil:** Técnico Superior en Calidad Industrial y Mecanizado, actualmente en formación Full Stack.
-- 🎯 **Enfoque:** Digitalización, automatización de laboratorios e Industria 4.0 para el sector aeroespacial.
-- 🌍 **Ubicación:** Disponible en Sevilla, Granada y entornos industriales activos.
+## Sobre mí
+- ⚙️ **Perfil:** Técnico Superior en Laboratorio de Análisis y Calidad Industrial, y Técnico Medio en Mecanizado; actualmente en formación Full Stack.
+- 🎯 **Enfoque:** Digitalización, automatización de procesos de laboratorio e Industria 4.0.
+- 🌍 **Ubicación:** Disponible presencialmente en Sevilla, Granada y entornos industriales activos de Andalucía.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
-- 📊 **Calidad:** Minitab (Control Estadístico), Ensayos dimensionales y destructivos.
+## Tecnologías y Herramientas
+- 📊 **Calidad:** Minitab (Control Estadístico), Ensayos dimensionales, destructivos y no destructivo, digitalización de documentos.
 - 📐 **Diseño:** SolidWorks, Mastercam.
 - 💻 **Desarrollo Web (En curso):** HTML5, CSS3, Git, GitHub y próximamente Python / Node.js.
 
 ---
 
-## 📬 Contacto
+## Contacto
 - 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
-- 📱 **Teléfono:** +34 642 89 45 07
+- 📧 **Correo electrónico:** divasilachi@gmail.com
 
 ---
 
