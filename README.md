@@ -18,11 +18,3 @@
 ## Contacto
 - 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
 - 📧 **Correo electrónico:** divasilachi@gmail.com
-
----
-
-## 📊 Estadísticas de GitHub
-<p align="left">
-  <img src="https://vercel.app" alt="Estadísticas de Denis" height="140" />
-  <img src="https://vercel.app" alt="Lenguajes más usados" height="140" />
-</p>
