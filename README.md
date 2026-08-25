@@ -1,6 +1,6 @@
 
 # Hola, soy Denis
-
+---
 ## Sobre mí
 - ⚙️ **Perfil:** Técnico Superior en Laboratorio de Análisis y Calidad Industrial, y Técnico Medio en Mecanizado; actualmente en formación Full Stack.
 - 🎯 **Enfoque:** Digitalización, automatización de procesos de laboratorio e Industria 4.0.
