@@ -1,5 +1,5 @@
 
-Hola, soy Denis
+#Hola, soy Denis
 
 ## Sobre mí
 - ⚙️ **Perfil:** Técnico Superior en Laboratorio de Análisis y Calidad Industrial, y Técnico Medio en Mecanizado; actualmente en formación Full Stack.
