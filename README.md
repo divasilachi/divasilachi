@@ -16,5 +16,5 @@
 ---
 
 ## Contacto
-- 💼 **LinkedIn:** [[://linkedin.com](https://://linkedin.com)](https://www.linkedin.com/in/denvit454)
+- 💼 **LinkedIn:** (https://://linkedin.com)](https://www.linkedin.com/in/denvit454)
 - 📧 **Correo electrónico:** divasilachi@gmail.com
